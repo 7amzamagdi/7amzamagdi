@@ -10,7 +10,7 @@ Senior AI student with 1.5+ years of experience in data analysis using Power BI,
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7amzamagdi&label=Profile%20views&color=0e75b6&style=flat" alt="7amzamagdi" /> </p>
 
-- 🌱 I’m currently learning **Data Engineering , Data Anlysis**
+- 🌱 I’m currently learning **Data Engineering , Data Analysis**
 
 - 📫 How to reach me [Email](hamzamagdy@ieee.org)
 
