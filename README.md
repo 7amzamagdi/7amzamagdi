@@ -12,9 +12,9 @@ Senior AI student with 1.5+ years of experience in data analysis using Power BI,
 
 - 🌱 I’m currently learning **Data Engineering , Data Analysis**
 
-- 📫 How to reach me [Email](hamzamagdy@ieee.org)
+- 📫 How to reach me [Email](hamzamagdy670@gmail.com)
 
-- 📄 Take a look at my [Resume](https://drive.google.com/file/d/1vp5-nw_pD_mo7kOMQQz398xPCi6GnsKN/view?usp=sharing)
+- 📄 Take a look at my [Resume]([https://drive.google.com/file/d/1vp5-nw_pD_mo7kOMQQz398xPCi6GnsKN/view?usp=sharing](https://drive.google.com/file/d/126tuhIYZ-Q2QvEHNaM1I3rhJWniWdvP2/view?usp=sharing))
 
 ## Languages & Tools  
 <p align="left">
